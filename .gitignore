@@ -1,0 +1,7 @@
+.vs
+.vscode
+.history
+bin/
+obj/
+# Download/*
+# Export/*
