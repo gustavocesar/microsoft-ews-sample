@@ -3,5 +3,5 @@
 .history
 bin/
 obj/
-# Download/*
-# Export/*
+Download/*
+Export/*
